@@ -49,3 +49,6 @@ console.log(
 console.log(
   calcAverageCalories([])
 ); // 0
+
+
+console.log('');
